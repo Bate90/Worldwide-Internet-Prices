@@ -1,5 +1,5 @@
 # Worldwide-Internet-Prices
-# Prices for mobile internet in African countries
+# Prices for mobile internet in African, Europe, Carribean, Middle East countries
 
 You can read the story here in [English](https://www.dw.com/en/why-mobile-internet-is-so-expensive-in-some-african-nations/a-55483976) or [German](https://www.dw.com/de/afrika-mobilfunk-mobiles-internet-preise-preisunterschiede-datenjournalismus-daten-analyse-malawi/a-55448268)
 
